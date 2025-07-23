@@ -29,6 +29,7 @@ copy_config() {
   cp "$location/.zshrc" "$HOME/"
 
   sudo cp "$location/scripts/pullall" "/usr/bin"
+  sudo cp "$location/superfile_app/spf" "/usr/bin"
 }
 
 configure_git() {
