@@ -1,7 +1,6 @@
 gum
 wget
 curl
-docker.io
 starship
 zoxide
 fzf
