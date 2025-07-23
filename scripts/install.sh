@@ -10,7 +10,8 @@ clear
 location="$HOME/wsl"
 
 installPackages() {
-    sudo apt install -y $(cat "$location/packages.txt")
+    sudo apt install nala
+    sudo nala install -y $(cat "$location/packages.txt")
 }
 
 copy_config() {

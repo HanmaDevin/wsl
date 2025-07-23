@@ -1,7 +1,7 @@
 gum
-nala
 wget
 curl
+docker.io
 starship
 zoxide
 fzf
