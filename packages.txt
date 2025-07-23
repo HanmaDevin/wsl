@@ -1,6 +1,7 @@
 gum
 wget
 curl
+zip
 starship
 zoxide
 fzf
@@ -16,4 +17,10 @@ lazygit
 calc
 lua5.4
 golang
-ranger
+openjdk-25-jdk
+rustup
+python-requests
+python-dotenv
+texlive-full
+fd-find
+sed
