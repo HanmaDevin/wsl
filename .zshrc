@@ -104,6 +104,7 @@ alias startdocker="systemctl start docker"
 
 # you may also use the following one
 bindkey -s '^o' 'nvim $(fzf)\n'
+bindkey -s '^e' 'ranger\n'
 
 # python environments
 alias deac="deactivate"

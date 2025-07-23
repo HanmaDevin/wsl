@@ -16,3 +16,4 @@ lazygit
 calc
 lua5.4
 golang
+ranger
