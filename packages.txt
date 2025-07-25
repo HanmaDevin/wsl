@@ -1,5 +1,6 @@
 gum
 wget
+nala
 curl
 zip
 starship
@@ -8,7 +9,6 @@ fzf
 bat
 ripgrep
 xsel
-wine
 ssh
 7zip
 gdb
@@ -19,9 +19,8 @@ lua5.4
 golang
 openjdk-25-jdk
 rustup
-python-requests
-python-dotenv
 texlive-full
 fd-find
 sed
 openvpn
+cowsay
