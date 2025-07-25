@@ -1,9 +1,8 @@
-gum
 wget
+gum
 nala
 curl
 zip
-starship
 zoxide
 fzf
 bat
@@ -13,11 +12,10 @@ ssh
 7zip
 gdb
 jq
-lazygit
 calc
 lua5.4
 golang
-openjdk-25-jdk
+openjdk-21-jdk
 rustup
 texlive-full
 neovim
