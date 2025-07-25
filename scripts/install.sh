@@ -88,6 +88,7 @@ configure_git
 curl -o- https://fnm.vercel.app/install | bash
 curl -sSf https://sh.rustup.rs | sh
 curl -fsSL https://ollama.com/install.sh | sh
+curl -fsSL https://starship.rs/install.sh | sudo sh
 
 echo -e "${MAGENTA}"
 cat <<"EOF"
